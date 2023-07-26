@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HowdyChallenge", "HowdyChallenge.csproj", "{C69CFC2F-59A4-4E7D-A39B-BDF35617E5EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C69CFC2F-59A4-4E7D-A39B-BDF35617E5EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C69CFC2F-59A4-4E7D-A39B-BDF35617E5EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C69CFC2F-59A4-4E7D-A39B-BDF35617E5EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C69CFC2F-59A4-4E7D-A39B-BDF35617E5EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B119B25-49B0-43BF-BA21-3920BE3C5FD6}
+	EndGlobalSection
+EndGlobal
